@@ -1,0 +1,4 @@
+<br>
+<p class=heading1>Index plate hole calculator</p>
+<p class=info1>This is an online calculator to calculate what indexing plate to use and number of holes to skip for a given number of divisions. This calculator can be used for both rotary tables and indexing heads.</p><p class=info1>The ratio below describes how many turns of the handle makes the table rotate one full revolution. For example, if your table rotates 6 degrees for every turn on the crank handle, the ratio is 360/6 = 60.</p>
+<p class=info1>The available number of holes on the indexing plates are given as a comma separated list of integer values (For example, if your plates have 11, 12 and 15 holes, enter &quot;11, 12, 15&quot; in the textbox below.</p>

@@ -1,0 +1,74 @@
+body {
+    font-family: "Arial", Gadget, sans-serif;
+}
+
+.heading1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.info1 {
+    font-size: 14px;
+}
+
+.table1 {
+    background: #D0D0D0;
+    border: 0;
+}
+
+.ratiotable {
+    border-spacing: 1;
+    border-collapse: collapse;
+
+    border: 0;
+    padding: 0;
+}
+
+.tabletop {
+    background: #D0D0D0;
+}
+
+
+
+.disabledcell {
+    background: #D0D0D0;
+}
+
+.standardcell {
+    background: #FFFFFF;
+}
+
+.exactmatch {
+    background: #80FF80;
+    font-weight: bold;
+}
+
+
+.closematch {
+    background: #A0FFE0;
+}
+
+.center {
+    text-align: center;
+}
+
+.rotatedtext {
+    background: #D0D0D0;
+
+    /* Safari */
+    -webkit-transform: rotate(-90deg);
+
+    /* Firefox */
+    -moz-transform: rotate(-90deg);
+
+    /* IE */
+    -ms-transform: rotate(-90deg);
+
+    /* Opera */
+    -o-transform: rotate(-90deg);
+    
+    /* Internet Explorer */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+
